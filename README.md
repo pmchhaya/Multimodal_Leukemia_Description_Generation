@@ -29,7 +29,7 @@ cd Multimodal_Leukemia_Description_Generation
 ```python
 openai.api_key = "YOUR_API_KEY"
 ```
-
+4. Full AML dataset can be found here: https://www.cancerimagingarchive.net/collection/aml-cytomorphology_lmu/
 ---
 
 ##  How to Run
@@ -92,6 +92,7 @@ Each generation method is evaluated using:
 - GPT-3.5 (OpenAI API)
 - PEFT / LoRA (HuggingFace)
 - Mindray Blood Cell Atlas
+- Dataset: AML-Cytomorphology_LMU: https://www.cancerimagingarchive.net/collection/aml-cytomorphology_lmu/
 
 ---
 
