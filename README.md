@@ -25,7 +25,7 @@ cd Multimodal_Leukemia_Description_Generation
 
 2. Open `FYP1.ipynb` in **Google Colab** (recommended for GPU access).
 
-3. Add your OpenAI API key if using GPT-3.5, API key in code is in use (so no need to change):
+3. Add your OpenAI API key if using GPT-3.5, replace existing API key with new one:
 ```python
 openai.api_key = "YOUR_API_KEY"
 ```
